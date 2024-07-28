@@ -1,15 +1,25 @@
 {
   "name": "@prkhrv/express-rate-limiter",
-  "version": "1.0.3",
-  "main": "dist/rateLimiter.js",
-  "types": "dist/rateLimiter.d.ts",
+  "version": "1.0.4",
+  "description": "A robust and flexible rate limiter middleware for Express.js in TypeScript",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "test": "jest"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prkhrv/express-rate-limiter"
+  },
+  "keywords": [
+    "rate limiter",
+    "express",
+    "middleware",
+    "typescript"
+  ],
+  "author": "Prakhar Varshney",
+  "license": "MIT",
   "dependencies": {
     "@types/express": "^4.17.21",
     "express": "^4.19.2"
