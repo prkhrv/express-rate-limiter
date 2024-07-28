@@ -1,5 +1,7 @@
 # Rate Limiter Middleware for Express 🚀
 
+[![npm version](https://badge.fury.io/js/@prkhrv%2Fexpress-rate-limiter.svg)](https://badge.fury.io/js/@prkhrv%2Fexpress-rate-limiter)
+![NPM Downloads](https://img.shields.io/npm/dm/%40prkhrv%2Fexpress-rate-limiter)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A robust and flexible rate limiter middleware for Express applications written in TypeScript. Control the rate of requests to your API endpoints with ease! ✨
