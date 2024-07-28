@@ -1,6 +1,6 @@
 {
   "name": "@prkhrv/express-rate-limiter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/rateLimiter.js",
   "types": "dist/rateLimiter.d.ts",
   "scripts": {
