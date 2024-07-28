@@ -58,3 +58,4 @@ const rateLimiter = (options: Options) => {
 };
 
 export default rateLimiter;
+module.exports = rateLimiter;
